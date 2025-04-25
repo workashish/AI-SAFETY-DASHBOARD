@@ -2,7 +2,6 @@
 
 A modern, responsive dashboard for tracking and managing AI safety incidents. Built with React, TypeScript, and Vite.
 
-![Dashboard Screenshot](screenshot.png)
 
 ## Features
 
@@ -66,3 +65,4 @@ npm run build
 ## License
 
 MIT
+# AI-SAFETY-DASHBOARD
